@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a 2nd year computer science student who is learning C++ and golang and knows java<br>I am learning some backend stuff :)<br>I am also doing something in C++ and is currently learning on how not to use C++ .<br>I am also a keen learner who dives deep into whatever he learns<br><br>I use Arch btw!! 
+A Student interested in computer and shit. <br>Loves to stare at computer screens all day :)<br>Knows java but hates it and is learning C++ and Golang<br>Loves backend stuff and networking things<br>Also Loves mathematical stuff and making stuff in C++ <br>I use Arch btw!! 
 
 
 ## 🌐 Socials:
@@ -24,11 +24,4 @@ I am currently a 2nd year computer science student who is learning C++ and golan
 ---
 [![](https://visitcount.itsvg.in/api?id=StupidAfCoder&icon=3&color=5)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StupidAfCoder/StupidAfCoder/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StupidAfCoder/StupidAfCoder/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StupidAfCoder/StupidAfCoder/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
