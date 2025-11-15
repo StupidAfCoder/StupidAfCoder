@@ -22,7 +22,9 @@ A Student interested in computer and shit. <br>Loves to stare at computer screen
 ![](https://github-contributor-stats.vercel.app/api?username=StupidAfCoder&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=StupidAfCoder&icon=3&color=5)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://count.getloli.com/@:StupidAfCoder?theme=miku&padding=7&offset=2&scale=0.7&align=center&pixelated=1&darkmode=auto"  />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StupidAfCoder/StupidAfCoder/output/pacman-contribution-graph-dark.svg">
