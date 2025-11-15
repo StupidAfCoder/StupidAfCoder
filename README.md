@@ -30,4 +30,6 @@ A Student interested in computer and shit. <br>Loves to stare at computer screen
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StupidAfCoder/StupidAfCoder/output/pacman-contribution-graph.svg">
 </picture>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=568p849f28f0x5h6nqs1n1g0p&count={5})
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
