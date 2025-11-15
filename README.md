@@ -58,7 +58,7 @@ A Student interested in computer and shit. <br>Loves to stare at computer screen
 </picture>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=568p849f28f0x5h6nqs1n1g0p&count=5" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=568p849f28f0x5h6nqs1n1g0p&count=5&width=300" alt="Spotify recently played"  />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
