@@ -47,8 +47,12 @@ A Student interested in computer and shit. <br>Loves to stare at computer screen
 ![](https://github-contributor-stats.vercel.app/api?username=StupidAfCoder&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-<div align="center">
+<div align="right">
   <img src="https://count.getloli.com/@:StupidAfCoder?theme=miku&padding=7&offset=2&scale=0.7&align=center&pixelated=1&darkmode=auto"  />
+</div>
+
+<div align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=568p849f28f0x5h6nqs1n1g0p&count=5&width=300" alt="Spotify recently played"  />
 </div>
 
 <picture>
@@ -56,9 +60,5 @@ A Student interested in computer and shit. <br>Loves to stare at computer screen
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StupidAfCoder/StupidAfCoder/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StupidAfCoder/StupidAfCoder/output/pacman-contribution-graph.svg">
 </picture>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=568p849f28f0x5h6nqs1n1g0p&count=5&width=300" alt="Spotify recently played"  />
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
