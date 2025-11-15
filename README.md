@@ -48,7 +48,7 @@ A Student interested in computer and shit. <br>Loves to stare at computer screen
 
 ---
 <div align="right">
-  <img src="https://count.getloli.com/@:StupidAfCoder?theme=miku&padding=7&offset=2&scale=0.7&align=center&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:StupidAfCoder?theme=miku&padding=7&offset=2&scale=0.5&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
 <div align="left">
