@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a 2nd year computer science student who is learning C++ and go and knows java<br>and working on how to create backend services in go , how cloud works , containerization etc.<br>I am also interested in C++ and is currently learning on how to make math libraries.<br>I am also a keen learner who dives deep into whatever he learns<br><br>Also I use arch btw!! 
+I am currently a 2nd year computer science student who is learning C++ and golang and knows java<br>I am learning some backend stuff :)<br>I am also doing something in C++ and is currently learning on how not to use C++ .<br>I am also a keen learner who dives deep into whatever he learns<br><br>I use Arch btw!! 
 
 
 ## 🌐 Socials:
