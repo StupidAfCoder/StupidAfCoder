@@ -17,8 +17,6 @@ A Student interested in computer and shit. <br>Loves to stare at computer screen
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="43" alt="cplusplus logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="43" alt="css logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="43" alt="linux logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="43" alt="git logo"  />
@@ -47,10 +45,6 @@ A Student interested in computer and shit. <br>Loves to stare at computer screen
 ![](https://github-contributor-stats.vercel.app/api?username=StupidAfCoder&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-<div align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=568p849f28f0x5h6nqs1n1g0p&count=5&width=300" alt="Spotify recently played"  />
-</div>
-
 <div align="left">
   <img src="https://count.getloli.com/@:StupidAfCoder?theme=miku&padding=7&offset=2&scale=0.5&align=center&pixelated=1&darkmode=auto"  />
 </div>
