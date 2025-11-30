@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Student interested in computer and shit. <br>Loves to stare at computer screens all day :)<br>Knows java but hates it and is learning C++ and Golang<br>Loves backend stuff and networking things<br>Also Loves mathematical stuff and making stuff in C++ <br>I use Arch btw!! 
+A Student who likes to dive deep into topics he shouldn't <br>Loves to stare at computer screens all day :)<br>Currently working with C++ and golang<br> What is a template in C++?<br>I use Arch btw!! 
 
 
 ## 🌐 Socials:
