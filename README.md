@@ -1,11 +1,11 @@
-# 💫 About Me:
+# About Me:
 A Student who likes to dive deep into topics he shouldn't <br>Loves to stare at computer screens all day :)<br>Currently working with C++ and golang<br>I use Arch btw!! 
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/970687227472527430) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/MightyStandard) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 <br clear="both">
 
 <div align="left">
@@ -28,18 +28,18 @@ A Student who likes to dive deep into topics he shouldn't <br>Loves to stare at 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="43" alt="docker logo"  />
 </div>
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=StupidAfCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=StupidAfCoder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StupidAfCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=StupidAfCoder&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=StupidAfCoder&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
