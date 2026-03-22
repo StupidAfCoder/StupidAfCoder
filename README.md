@@ -1,10 +1,6 @@
 # About Me:
 A Student who likes to dive deep into topics he shouldn't <br>Loves to stare at computer screens all day :)<br>Currently working with C++ and golang<br>I use Arch btw!! 
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/970687227472527430) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/MightyStandard) 
-
 # Tech Stack:
 <br clear="both">
 
