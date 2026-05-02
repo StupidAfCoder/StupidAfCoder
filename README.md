@@ -32,9 +32,6 @@ A Student who likes to dive deep into topics he shouldn't <br>Loves to stare at 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=StupidAfCoder&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 ---
 <div align="left">
   <img src="https://count.getloli.com/@:StupidAfCoder?theme=miku&padding=7&offset=2&scale=0.5&align=center&pixelated=1&darkmode=auto"  />
