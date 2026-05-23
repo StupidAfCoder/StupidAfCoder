@@ -1,5 +1,5 @@
 # About Me:
-A Student who likes to dive deep into topics he shouldn't <br>Loves to stare at computer screens all day :)<br>Currently working with C++ and golang<br>I use Arch btw!! 
+A Student who likes to dive deep into topics he shouldn't <br>Loves to stare at computer screens all day :)<br>Currently working with C++ and golang<br>I use Fedora btw!! 
 
 # Tech Stack:
 <br clear="both">
