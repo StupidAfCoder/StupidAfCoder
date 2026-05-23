@@ -24,11 +24,6 @@ A Student who likes to dive deep into topics he shouldn't <br>Loves to stare at 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="43" alt="docker logo"  />
 </div>
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StupidAfCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=StupidAfCoder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StupidAfCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
